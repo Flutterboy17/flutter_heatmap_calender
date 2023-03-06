@@ -1,6 +1,6 @@
 # flutter_heatmap_calender
 
-A new Flutter project.
+A new Flutter project. I jsut tried flutter_heatmap_calender package in this repository. I will update it with a Habit Tracker or  Health Care Apps...
 
 ## Getting Started
 
